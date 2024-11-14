@@ -1,2 +1,2 @@
 # YoyoProject
-#Author --> Inzamamul Haque
+#Author --> Muhammad Inzamamul Haque
